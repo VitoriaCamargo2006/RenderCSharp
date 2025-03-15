@@ -1,0 +1,11 @@
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\bin\Debug\CriacaoComponentes.exe.config
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\bin\Debug\CriacaoComponentes.exe
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\bin\Debug\CriacaoComponentes.pdb
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\obj\Debug\CriacaoComponentes.csproj.AssemblyReference.cache
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\obj\Debug\CriacaoComponentes.csproj.SuggestedBindingRedirects.cache
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\obj\Debug\CriacaoComponentes.Form1.resources
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\obj\Debug\CriacaoComponentes.Properties.Resources.resources
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\obj\Debug\CriacaoComponentes.csproj.GenerateResource.cache
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\obj\Debug\CriacaoComponentes.csproj.CoreCompileInputs.cache
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\obj\Debug\CriacaoComponentes.exe
+D:\program desktop\CriacaoComponentes\CriacaoComponentes\obj\Debug\CriacaoComponentes.pdb
