@@ -1,0 +1,10 @@
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\bin\Debug\LOGIN-USUARIO.exe.config
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\bin\Debug\LOGIN-USUARIO.exe
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\bin\Debug\LOGIN-USUARIO.pdb
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\obj\Debug\LOGIN-USUARIO.csproj.AssemblyReference.cache
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\obj\Debug\LOGIN_USUARIO.Properties.Resources.resources
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\obj\Debug\LOGIN_USUARIO.Form1.resources
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\obj\Debug\LOGIN-USUARIO.csproj.GenerateResource.cache
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\obj\Debug\LOGIN-USUARIO.csproj.CoreCompileInputs.cache
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\obj\Debug\LOGIN-USUARIO.exe
+D:\2025\semestre_01\program desktop\TP05\LOGIN-USUARIO\LOGIN-USUARIO\obj\Debug\LOGIN-USUARIO.pdb
